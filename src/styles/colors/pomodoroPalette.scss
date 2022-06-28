@@ -1,0 +1,20 @@
+$yellow: #FE9503;
+$orange: #FF712B;
+$purple1: #754AAA;
+$purple2: #322455;
+$pink1: #AF1B99;
+$pink2: #DA405D;
+$violet1: #763776;
+$violet2: #4C2343;
+$black1: #14121B;
+$black2: #1B1519;
+$brown1: #593416;
+$brown2: #271B17;
+
+:export{
+    backgroundColor: $black1;
+    primaryColor: $pink2;
+    secondaryColor: $yellow;
+    infoColor: $purple1;
+    tertiaryColor: $orange;
+}

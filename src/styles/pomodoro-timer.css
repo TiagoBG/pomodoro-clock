@@ -1,0 +1,5 @@
+.clock-view, .pomodoro-settings{
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
